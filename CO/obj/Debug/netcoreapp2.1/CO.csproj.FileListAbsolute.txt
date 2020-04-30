@@ -1,0 +1,17 @@
+C:\Users\Uday Upadhyay\source\repos\CO\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\Uday Upadhyay\source\repos\CO\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\Uday Upadhyay\source\repos\CO\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\Uday Upadhyay\source\repos\CO\bin\Debug\netcoreapp2.1\CO.deps.json
+C:\Users\Uday Upadhyay\source\repos\CO\bin\Debug\netcoreapp2.1\CO.runtimeconfig.json
+C:\Users\Uday Upadhyay\source\repos\CO\bin\Debug\netcoreapp2.1\CO.runtimeconfig.dev.json
+C:\Users\Uday Upadhyay\source\repos\CO\bin\Debug\netcoreapp2.1\CO.dll
+C:\Users\Uday Upadhyay\source\repos\CO\obj\Debug\netcoreapp2.1\CO.csprojAssemblyReference.cache
+C:\Users\Uday Upadhyay\source\repos\CO\obj\Debug\netcoreapp2.1\CO.RazorAssemblyInfo.cache
+C:\Users\Uday Upadhyay\source\repos\CO\obj\Debug\netcoreapp2.1\CO.RazorAssemblyInfo.cs
+C:\Users\Uday Upadhyay\source\repos\CO\obj\Debug\netcoreapp2.1\CO.AssemblyInfoInputs.cache
+C:\Users\Uday Upadhyay\source\repos\CO\obj\Debug\netcoreapp2.1\CO.AssemblyInfo.cs
+C:\Users\Uday Upadhyay\source\repos\CO\obj\Debug\netcoreapp2.1\CO.RazorTargetAssemblyInfo.cache
+C:\Users\Uday Upadhyay\source\repos\CO\obj\Debug\netcoreapp2.1\CO.genruntimeconfig.cache
+C:\Users\Uday Upadhyay\source\repos\CO\bin\Debug\netcoreapp2.1\CO.pdb
+C:\Users\Uday Upadhyay\source\repos\CO\obj\Debug\netcoreapp2.1\CO.dll
+C:\Users\Uday Upadhyay\source\repos\CO\obj\Debug\netcoreapp2.1\CO.pdb
